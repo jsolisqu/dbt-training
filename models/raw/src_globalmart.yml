@@ -7,4 +7,5 @@ sources:
     tables:
       - name: customer
       - name: orders
+      - name: product
               
